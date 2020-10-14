@@ -40,7 +40,7 @@
 - Controller：通过API Server来监控整个集群的状态，并确保集群处于预期的工作状态，比如故障检测、自动扩展、滚动更新等。
 
 <br>
-<div align=center><img src=""></div>
+<div align=center><img src="img/k8sMaster.png"></div>
 
 &emsp;&emsp;Node是Kubernetes集群的工作节点，可以是物理机也可以是虚拟机。Node需要包含容器、kubelet、kube-proxy等组件。Fluentd用来提供日志收集功能（可选）。
 
