@@ -51,7 +51,7 @@
 - Docker： 每台Node上需要安装Docker来运行镜像，但是Docker不是唯一选择，Kubernetes支持多种容器，比如CoreOS公司的Rkt容器（之前称为Rocket，现更名为Rkt）。
 
 <br>
-<div align=center><img src="./img/k8sMaster.png" width=650></div>
+<div align=center><img src="./img/k8sNode.png" width=650></div>
 
 ## 资源对象
 
